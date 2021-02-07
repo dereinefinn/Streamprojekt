@@ -1,0 +1,9 @@
+name: Streamprojekt
+version: 1.0
+main: tv.codex.streamprojekt.StreamProjekt
+api-version: 1.16
+website: https://twitch.tv/cooodex
+
+commands:
+  start:
+    permissions: streamproject.start
